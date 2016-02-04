@@ -3,8 +3,8 @@
 this.countdown = 100;
 
 let wines = [
-	'Molly Dookler - The Maitre',
-	'Molly Dookler - Two left feet',
+	'Molly Dooker - The Maitre',
+	'Molly Dooker - Two left feet',
 	'Poggio Scalett'
 ]
 
